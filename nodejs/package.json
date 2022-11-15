@@ -1,0 +1,17 @@
+{
+  "name": "perpetual-api-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sign.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EMDX",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-fetch": "^2.6.7",
+    "web3": "^1.8.1",
+    "web3-eth-accounts": "^1.8.1"
+  }
+}
